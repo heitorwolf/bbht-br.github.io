@@ -2,6 +2,11 @@
 
 body { font-size: 92.5%; }
 
+hr { 
+	margin-top: 1%;
+	width: 60%;
+}
+
 #home {
 	height: 100%;
 	width: 100%;
@@ -24,15 +29,66 @@ body { font-size: 92.5%; }
 
 }
 
-#home hr { 
-	margin-top: 1%;
-	width: 60%;
-}
-
 #home h2 {
 	color: #fff;
 	font-weight: 300;
 	padding-top: 2%;
+}
+
+#team {
+	height: 100%;
+	width: 100%;
+	min-height: 100%;
+	min-width: 100%;
+	background-color: #fff;
+}
+
+#team h2 {
+	padding-top: 8%;
+	font-weight: 300;
+}
+
+.info-team img {
+	border-radius: 50%;
+	margin-top: 5%;
+	height: 150px;
+	width: 150px;
+}
+
+.info-team {
+	display: inline-block;
+	padding: 20px;
+}
+
+.info-team h3 { 
+	text-transform: uppercase;
+	color: #000;
+	font-weight: 300;
+}
+
+.info-team h4 { 
+	color: #333;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.arrow {
+	display: inline-block;
+ 	width: 4em;
+  	height: 4em;
+}
+
+.arrow:after {
+	content: '';
+	display: inline-block;
+ 	margin-top: 80px;
+  	width: 1.8em;
+  	height: 1.8em;
+ 	border-top: 0.3em solid #006df0;
+  	border-right: 0.3em solid #006df0;
+   -moz-transform: rotate(135deg);
+   -webkit-transform: rotate(135deg);
+   transform: rotate(135deg);
 }
 
 @media screen and (max-width: 800px) {
