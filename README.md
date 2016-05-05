@@ -1,4 +1,12 @@
-# ***Website of BigBang Hack Team***
+# ***Website of Big Bang Hack Team***
+
+[**View demo here :metal:**](http://bbht.tk)
+##### Technologies used:
+
+- HTML5
+- CSS3
+- Rusty.css
+- Jquery
 
 ##### Bugs
 
@@ -6,7 +14,7 @@
 
 ##### License
 
-- This work is licensed under [**Artistic License 2.0**](https://github.com/bigbangteam/bigbangteam.github.io/blob/master/LICENSE)
+- This work is licensed under [**Artistic License 2.0**](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE.md)
 
 ##### Contribution
 
