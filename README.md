@@ -10,7 +10,7 @@
 
 ##### Bugs
 
-- Report bugs on email: **hi@heitorgouvea.me**
+- Report bugs on email: **bbht@protonmail.com**
 
 ##### License
 
