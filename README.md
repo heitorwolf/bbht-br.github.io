@@ -1,4 +1,5 @@
 # ***Website of Big Bang Hack Team***
+## ***An explosion of creativity! :rocket:***
 
 [**View demo here :metal:**](http://bbht.tk)
 ##### Technologies used:

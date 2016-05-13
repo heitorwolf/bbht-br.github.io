@@ -26,7 +26,6 @@ hr {
 	padding-top: 2%;
 	color: #fff;
 	text-transform: uppercase;
-
 }
 
 #home h2 {
@@ -62,6 +61,30 @@ hr {
 	font-weight: 300;
 	padding-top: 3%;
 	text-transform: uppercase;
+}
+
+#contact h3 {
+	color: #333;
+	font-weight: 300;
+	padding-top: 3%;
+	font-size: 1.3em;
+}
+
+footer {
+	height: 120px;
+	background-color: #000;
+	border-top: 2px #006df0 solid;
+}
+
+footer h4 {
+	color: #fff;
+	font-weight: 300;
+	padding-top: 3%;
+}
+
+footer a {
+	text-decoration: none;
+	color: #006df0;
 }
 
 .info-team a {
