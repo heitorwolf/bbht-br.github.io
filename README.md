@@ -1,7 +1,7 @@
 # ***Website Big Bang Hack Team***
 ## ***"Uma explosão de criatividade!" :metal: :smile: :rocket:***
 
-[**View demo here :metal:**](http://bbht.tk)
+[**Veja a demo aqui :metal:**](http://bbht.tk)
 ##### Tecnologias usadas:
 
 - HTML5
