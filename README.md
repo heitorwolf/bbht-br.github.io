@@ -1,8 +1,8 @@
-# ***Website of Big Bang Hack Team***
-## ***An explosion of creativity! :rocket:***
+# ***Website Big Bang Hack Team***
+## ***"Uma explosão de criatividade!" :metal: :smile: :rocket:***
 
 [**View demo here :metal:**](http://bbht.tk)
-##### Technologies used:
+##### Tecnologias usadas:
 
 - HTML5
 - CSS3
@@ -11,12 +11,12 @@
 
 ##### Bugs
 
-- Report bugs on email: **bbht@protonmail.com**
+- Reporte bugs neste e-mail: **bbht@protonmail.com**
 
-##### License
+##### Licensa
 
-- This work is licensed under [**Artistic License 2.0**](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE.md)
+- Este trabalho está licensidado sob [**Artistic License 2.0**](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE.md)
 
-##### Contribution
+##### Contribuição
 
-- Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕)
+- Suas contribuições e sugestoẽs serão bem vindas de todo o coração! ♥ (✿◕‿◕)
