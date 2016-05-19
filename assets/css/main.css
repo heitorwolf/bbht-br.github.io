@@ -68,6 +68,8 @@ a {
 	text-transform: uppercase;
 }
 
+#content { padding-top: 30px; }
+
 #contact h3 {
 	color: #333;
 	font-weight: 300;
@@ -190,6 +192,56 @@ footer h4 {
    -moz-transform: rotate(135deg);
    -webkit-transform: rotate(135deg);
    transform: rotate(135deg);
+}
+
+.apiCard {
+	display: inline-block;
+	padding: 15px;
+	margin: 15px;
+	min-height: 250px;
+	max-height: 250px;
+	min-width: 250px;
+  	max-width: 250px;
+  	color: #333;
+  	border: 0.8px solid #d4d4d5;
+  	border-radius: 3px;
+}
+
+.apiCard hr {
+    width: 100%;
+    border: 0.1px solid #d4d4d5;
+}
+
+.apiCard h3 {
+	color: #333;
+	padding: 10px;
+	min-height: 10px;
+	text-transform: uppercase;
+}
+
+.apiCard h4 {
+	font-weight: 300;
+	color: #333;
+	padding: 20px;
+}
+
+.apiCard img { 
+	padding: 10px;
+	min-height: 10px;
+}
+
+.submit {
+	padding: 10px 22px;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	background: #4285F4;
+}
+
+.down {
+	position: relative;
+	top: 25px;
 }
 
 @media screen and (max-width: 800px) {
