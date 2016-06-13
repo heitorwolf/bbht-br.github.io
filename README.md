@@ -1,4 +1,7 @@
-# ***Website Big Bang Hack Team***
+# ***Website of BBHT***
+
+[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE)
+
 ## ***"Uma explosão de criatividade!" :metal: :smile: :rocket:***
 
 [**Veja a demo aqui :metal:**](http://bbht.tk)
@@ -15,7 +18,7 @@
 
 ##### Licensa
 
-- Este trabalho está licensidado sob [**Artistic License 2.0**](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE.md)
+- Este trabalho está licencidado sob [**MIT License**](https://github.com/bbht-br/bbht-br.github.io/blob/master/LICENSE)
 
 ##### Contribuição
 
